@@ -19,8 +19,8 @@
 
 - **虚拟机**是通过hypervisor完整的“guest”操作系统，但是VMs会占用比应用所需更多的资源
 
-  ![Docker VS Virtual Machine](C:\Users\huh\AppData\Roaming\Typora\typora-user-images\1554821270692.png)
-
+  ![Docker VS Virtual Machine](https://docs.docker.com/images/Container%402x.png)
+ ![Docker VS Virtual Machine](https://docs.docker.com/images/VM%402x.png)
 ### 容器
 
 学习如何通过Docker的方式构建一个app。可以通过一个Dockerfile定义Docker容器。
